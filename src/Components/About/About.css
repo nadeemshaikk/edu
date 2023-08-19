@@ -1,0 +1,99 @@
+.home1 {
+  text-align: center;
+  margin: 0px;
+  background-color: rgb(231, 210, 129);
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(213,246,243,1) 47%, rgba(228,233,148,1) 100%);
+  top:0;
+  bottom: 0;
+  scroll-behavior: smooth;
+}
+.he{
+  color:black;
+  font-size: 100px;
+  letter-spacing: 1px;
+  cursor:pointer;
+}
+h1{
+  font-size:100px;
+  letter-spacing: 2px;
+}
+
+span{
+  color:orange;
+  
+}
+.hero1 {
+  text-align: center;
+  padding: 50px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: whitesmoke;
+}
+.he {
+  
+  padding-right: 200px;
+  
+}
+
+.hero h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.cta-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #00b894;
+  color: red;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.awareness {
+  display: flex;
+  justify-content: space-around;
+  margin: 40px 0;
+}
+
+.awareness-card {
+  flex-basis: 30%;
+  padding: 20px;
+  background-color:whitesmoke;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+
+}
+.awareness-card:hover{
+  text-decoration: none;
+  border:1px solid transparent;
+  font-weight: bold;
+  font-size: larger;
+  padding:10px 25px;
+  
+  border-top-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+
+}
+  
+
+.awareness-card i {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.awareness-card h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+
+
